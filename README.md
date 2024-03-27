@@ -54,10 +54,8 @@ Extra: Utilizando o Git Status podemos analisar se tem algum arquivo ainda não 
 
 ![image](https://github.com/ChristianVarandas/TutorialGit/assets/160960774/379ed847-ff07-4bd3-b5cf-075525fcff6d)
 
-Dupla: Alex Campos de Oliveira e Christian Varandas (2°Mtec Jogos Digitais).
-
 Resultado final: 
 
 ![image](https://github.com/ChristianVarandas/TutorialGit/assets/160960774/c1488046-525f-46c6-957e-d77533842c74)
 
-
+Dupla: Alex Campos de Oliveira e Christian Varandas (2°Mtec Jogos Digitais).
