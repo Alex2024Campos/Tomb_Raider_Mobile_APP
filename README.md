@@ -4,7 +4,7 @@ Dupla: Alex Campos de Oliveira e Christian Varandas (2°Mtec Jogos Digitais).
 Um tutorial passo a passo para uso do Git, movendo arquivos para o repositório do GitHub. Abaixo, iremos apresentar o passo a passo para concluir tal objetivo:
 
 
-1° Passo: Você precisa iniciar com o git init para iniciar as suas modificações. O git gnit irá pegar a pasta que você criou com o seu arquivo.
+1° Passo: Você precisa utilizar o git init para iniciar as suas modificações. O git gnit irá pegar a pasta que você criou com o seu arquivo.
 
 ![image](https://github.com/ChristianVarandas/TutorialGit/assets/160960774/88690e44-5ecc-4568-93b2-e6fe0c9fca6d)
 
@@ -19,12 +19,12 @@ Um tutorial passo a passo para uso do Git, movendo arquivos para o repositório 
 ![image](https://github.com/ChristianVarandas/TutorialGit/assets/160960774/ccaf1acf-c6eb-4531-880a-3061e38eb976)
 
 
-4° Passo: Utilizamos o git add origin (link do repositório) para meio que conectar o repositório do Github com o Git, permitindo assim que as edições feitas fora do Github apareçam no site.
+4° Passo: Utilizamos o git remote add origin (link do repositório) para meio que conectar o repositório do Github com o Git, permitindo assim que as edições feitas fora do Github apareçam no site.
 
 ![image](https://github.com/ChristianVarandas/TutorialGit/assets/160960774/74fef5fb-b740-48cb-b78c-4d7f6a56b841)
 
 
-5° Passo: Utilizamos o git pull --allow-unrelated-histories (link do repositório) para recuperar os arquivos do servidor e mesclar com os locais.
+5° Passo: Utilizamos o git pull --allow-unrelated-histories (link do repositório) para recuperar os arquivos do servidor e mesclar com os locais. Em outras palavras, pegar os arquivos do servidor e juntar com os arquivos que estiverem na pasta que você está utilizando.
 
 ![image](https://github.com/ChristianVarandas/TutorialGit/assets/160960774/64654385-bcf2-4a86-9be3-6569d8669eb5)
 
@@ -45,12 +45,9 @@ que modifica o último commit utilizado).
 ![image](https://github.com/ChristianVarandas/TutorialGit/assets/160960774/70573353-3cbf-4ab7-a9c8-1180c7a2f096)
 
 
-9° Passo: O git pull origin main (ou master) serve para permitir que você faça alterações e as adicione no GitHub, assim atualizando o arquivo anterior para o novo e editado.
-
-![image](https://github.com/ChristianVarandas/TutorialGit/assets/160960774/44265de6-7a50-493a-98c4-1ae249565973)
-
-
 Extra: Utilizando o Git Status podemos analisar se tem algum arquivo ainda não conectado ao Git ou ver se ele já foi conectado.
+Para pegar um repositório para edita-lo ou por outro motivo, é possível utiliza-se do Git Clone (url do repositório) para somente clonar o mesmo e depois fazer o que você quer.
+
 
 ![image](https://github.com/ChristianVarandas/TutorialGit/assets/160960774/f96b9846-08de-4982-b03a-19db6a24fdcb)
 
