@@ -10,20 +10,9 @@
 
 </p>
 
-# GDD Template
-
-Este repositório contém um template completo para um Documento de Design de Jogo (GDD) em português, estruturado em Markdown. Esse template visa fornecer uma base sólida e organizada para que desenvolvedores de jogos possam documentar todos os aspectos importantes do design de seus jogos de maneira detalhada e estruturada.
-
 ## Objetivo
 
 O objetivo principal deste repositório é ajudar desenvolvedores de jogos, desde iniciantes até veteranos, a criarem documentos de design bem estruturados e abrangentes. Este template cobre uma ampla gama de tópicos importantes, incluindo mecânicas de jogo, narrativa, design de níveis, arte, áudio, monetização, e muito mais.
-
-## Para quem é destinado
-
-- **Desenvolvedores de Jogos:** Que estão no processo de criar e documentar seus jogos.
-- **Estudantes de Game Design:** Que desejam aprender e praticar a criação de GDDs.
-- **Equipes de Desenvolvimento:** Que precisam de uma estrutura clara e colaborativa para planejar e documentar o design do jogo.
-- **Entusiastas de Jogos:** Que têm interesse em entender melhor o processo de design de jogos.
 
 ## Estrutura do Documento
 
@@ -38,12 +27,6 @@ O template é dividido nas seguintes seções principais:
 8. **Monetização:** Detalha o modelo de negócio e itens pagos.
 9. **Testes e Qualidade:** Plano de testes e coleta de feedback dos jogadores.
 10. **Conclusão:** Resume os principais pontos do GDD e os próximos passos no desenvolvimento do jogo.
-
-## Como Utilizar
-
-1. **Clone o Repositório:** `git clone https://github.com/allefrodrigo/gdd-template.git`
-2. **Edite o Template:** Abra o arquivo Markdown e preencha cada seção com as informações do seu jogo.
-3. **Personalize:** Adapte e adicione seções conforme necessário para atender às necessidades específicas do seu projeto.
 
 # Sumário
 
