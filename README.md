@@ -23,11 +23,11 @@ O template é dividido nas seguintes seções principais:
 4. **Design de Níveis:** Estrutura, mapas, desafios, fluxo e balanceamento de dificuldade dos níveis.
 5. **Arte e Estilo Visual:** Detalha o estilo artístico, personagens, cenários, interface do usuário e paleta de cores.
 6. **Áudio:** Descreve a trilha sonora, efeitos sonoros, dublagem e som ambiente.
-7. **Progresso e Salvamento:** Explica os sistemas de progressão e salvamento do jogo.
+<!--7. **Progresso e Salvamento:** Explica os sistemas de progressão e salvamento do jogo.
 8. **Monetização:** Detalha o modelo de negócio e itens pagos.
 9. **Testes e Qualidade:** Plano de testes e coleta de feedback dos jogadores.
 10. **Conclusão:** Resume os principais pontos do GDD e os próximos passos no desenvolvimento do jogo.
-
+-->
 # Sumário
 
 1. [Informações Gerais](#1-informações-gerais)<br>
@@ -41,26 +41,26 @@ O template é dividido nas seguintes seções principais:
     2.1. [Regras Básicas](#21-regras-básicas)  
     2.2. [Controles](#22-controles)  
     2.3. [Objetivos e Metas](#23-objetivos-e-metas)  
-    2.4. [Sistema de Pontuação](#24-sistema-de-pontuação)  
+   <!-- 2.4. [Sistema de Pontuação](#24-sistema-de-pontuação)  
     2.5. [Mecânicas de Interação](#25-mecânicas-de-interação)  
     2.6. [Sistemas de Progressão e Recompensas](#26-sistemas-de-progressão-e-recompensas)  
     2.7. [Inteligência Artificial (IA)](#27-inteligência-artificial-ia)  
     2.8. [Dinâmicas de Jogo](#28-dinâmicas-de-jogo)  
-    2.9. [Economia do Jogo](#29-economia-do-jogo)  
+    2.9. [Economia do Jogo](#29-economia-do-jogo)  -->
 
 3. [Narrativa](#3-narrativa)<br>
     3.1. [História Principal](#31-história-principal)  
     3.2. [Personagens](#32-personagens)  
     3.3. [Cenários](#33-cenários)  
     3.4. [Missões e Quests](#34-missões-e-quests)  
-    3.5. [Roteiro e Diálogos](#35-roteiro-e-diálogos)  
+    <!--3.5. [Roteiro e Diálogos](#35-roteiro-e-diálogos)-->  
 
 4. [Design de Níveis](#4-design-de-níveis)<br>
     4.1. [Estrutura dos Níveis](#41-estrutura-dos-níveis)  
     4.2. [Mapas e Layouts](#42-mapas-e-layouts)  
-    4.3. [Desafios e Puzzles](#43-desafios-e-puzzles)  
+  <!--  4.3. [Desafios e Puzzles](#43-desafios-e-puzzles)  
     4.4. [Fluxo dos Níveis](#44-fluxo-dos-níveis)  
-    4.5. [Balanceamento de Dificuldade](#45-balanceamento-de-dificuldade)  
+    4.5. [Balanceamento de Dificuldade](#45-balanceamento-de-dificuldade)  -->
 
 5. [Arte e Estilo Visual](#5-arte-e-estilo-visual)<br>
     5.1. [Estilo Artístico](#51-estilo-artístico)  
@@ -70,11 +70,11 @@ O template é dividido nas seguintes seções principais:
     5.5. [Paleta de Cores](#55-paleta-de-cores)  
 
 6. [Áudio](#6-áudio)<br>
-    6.1. [Trilha Sonora](#61-trilha-sonora)  
+   <!-- 6.1. [Trilha Sonora](#61-trilha-sonora) --> 
     6.2. [Efeitos Sonoros](#62-efeitos-sonoros)  
-    6.3. [Dublagem](#63-dublagem)  
-    6.4. [Ambiente Sonoro](#64-ambiente-sonoro)  
-
+   <!-- 6.3. [Dublagem](#63-dublagem)  
+    6.4. [Ambiente Sonoro](#64-ambiente-sonoro)  -->
+<!--
 7. [Progresso e Salvamento](#7-progresso-e-salvamento)<br>
     7.1. [Sistema de Progressão](#71-sistema-de-progressão)  
     7.2. [Sistema de Salvamento](#72-sistema-de-salvamento)  
@@ -89,4 +89,4 @@ O template é dividido nas seguintes seções principais:
 
 10. [Conclusão](#10-conclusão)<br>
     10.1. [Sumário](#101-sumário)  
-    10.2. [Próximos Passos](#102-próximos-passos)  
+    10.2. [Próximos Passos](#102-próximos-passos)  -->
