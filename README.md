@@ -12,7 +12,7 @@
 
 ## Objetivo
 
-O objetivo principal deste repositório é ajudar desenvolvedores de jogos, desde iniciantes até veteranos, a criarem documentos de design bem estruturados e abrangentes. Este template cobre uma ampla gama de tópicos importantes, incluindo mecânicas de jogo, narrativa, design de níveis, arte, áudio, monetização, e muito mais.
+xxxxxxx
 
 ## Estrutura do Documento
 
