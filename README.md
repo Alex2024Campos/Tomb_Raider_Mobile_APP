@@ -30,7 +30,7 @@ O template é dividido nas seguintes seções principais:
 -->
 # Sumário
 
-1. [Informações Gerais]([#1-informações-gerais])<br>
+1. [Informações Gerais]([[#1-informações-gerais]](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/1.-Informações-Gerais))<br>
     1.1. [Título do Jogo](#11-título-do-jogo)  
     1.2. [Plataforma](#12-plataforma)  
     1.3. [Gênero](#13-gênero)  
