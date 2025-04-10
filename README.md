@@ -6,13 +6,21 @@
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License: MIT">
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Versão-0.2.9-blue?style=for-the-badge" alt="Versão">
-    <img src="https://img.shields.io/badge/Markdown-%23%23302c9b.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
+  <img src="https://img.shields.io/badge/Markdown-%23%23302c9b.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
 
 </p>
 
-## Objetivo
+## Grupo:
 
-xxxxxxx
+ Alex Campos de Oliveira
+ 
+ Felipe Mussato Rodrigues
+ 
+ Guilherme Henrique Lemes de Souza
+ 
+ Kauan Merida
+
+
 
 ## Estrutura do Documento
 
