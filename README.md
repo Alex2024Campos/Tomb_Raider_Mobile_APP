@@ -30,63 +30,34 @@ O template é dividido nas seguintes seções principais:
 -->
 # Sumário
 
-1. [Informações Gerais]<br>
-    1.1. [Título do Jogo](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/1.-Informações-Gerais#11-título-do-jogo)<br>
-    1.2. [Plataforma](#12-plataforma)  
-    1.3. [Gênero](#13-gênero)  
-    1.4. [Público-Alvo](#14-público-alvo)  
-    1.5. [Visão Geral do Jogo](#15-visão-geral-do-jogo)  
+1. [Informações Gerais](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/1.-Informa%C3%A7%C3%B5es-Gerais)<br>
+    1.1. [Título do Jogo](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/1.-Informa%C3%A7%C3%B5es-Gerais#11-título-do-jogo)<br>
+    1.2. [Plataforma](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/1.-Informa%C3%A7%C3%B5es-Gerais#12-plataforma)<br>
+    1.3. [Gênero](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/1.-Informa%C3%A7%C3%B5es-Gerais#13-gênero)<br>
+    1.4. [Público-Alvo](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/1.-Informa%C3%A7%C3%B5es-Gerais#14-público-alvo)<br>
+    1.5. [Visão Geral do Jogo](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/1.-Informa%C3%A7%C3%B5es-Gerais#15-visão-geral-do-jogo)<br>
 
-2. [Mecânicas de Jogo](#2-mecânicas-de-jogo)<br>
-    2.1. [Regras Básicas](#21-regras-básicas)  
-    2.2. [Controles](#22-controles)  
-    2.3. [Objetivos e Metas](#23-objetivos-e-metas)  
-   <!-- 2.4. [Sistema de Pontuação](#24-sistema-de-pontuação)  
-    2.5. [Mecânicas de Interação](#25-mecânicas-de-interação)  
-    2.6. [Sistemas de Progressão e Recompensas](#26-sistemas-de-progressão-e-recompensas)  
-    2.7. [Inteligência Artificial (IA)](#27-inteligência-artificial-ia)  
-    2.8. [Dinâmicas de Jogo](#28-dinâmicas-de-jogo)  
-    2.9. [Economia do Jogo](#29-economia-do-jogo)  -->
+2. [Mecânicas de Jogo](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/2.-Mecânicas-de-Jogo)<br>
+    2.1. [Regras Básicas](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/2.-Mecânicas-de-Jogo#21-regras-básicas)<br>
+    2.2. [Controles](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/2.-Mecânicas-de-Jogo#22-controles)<br>
+    2.3. [Objetivos e Metas](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/2.-Mecânicas-de-Jogo#23-objetivos-e-metas)<br>
 
-3. [Narrativa](#3-narrativa)<br>
-    3.1. [História Principal](#31-história-principal)  
-    3.2. [Personagens](#32-personagens)  
-    3.3. [Cenários](#33-cenários)  
-    3.4. [Missões e Quests](#34-missões-e-quests)  
-    <!--3.5. [Roteiro e Diálogos](#35-roteiro-e-diálogos)-->  
+3. [Narrativa](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/3.-Narrativa)<br>
+    3.1. [História Principal](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/3.-Narrativa#31-história-principal)<br>
+     3.2. [Personagens](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/3.-Narrativa#32-personagens)<br>
+    3.3. [Cenários](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/3.-Narrativa#33-cenários)<br>
+    3.4. [Missões e Quests](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/3.-Narrativa#34-missões-e-quests)<br>
 
-4. [Design de Níveis](#4-design-de-níveis)<br>
-    4.1. [Estrutura dos Níveis](#41-estrutura-dos-níveis)  
-    4.2. [Mapas e Layouts](#42-mapas-e-layouts)  
-  <!--  4.3. [Desafios e Puzzles](#43-desafios-e-puzzles)  
-    4.4. [Fluxo dos Níveis](#44-fluxo-dos-níveis)  
-    4.5. [Balanceamento de Dificuldade](#45-balanceamento-de-dificuldade)  -->
+4. [Design de Níveis](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/4.-Design-de-Níveis)<br>
+    4.1. [Estrutura dos Níveis](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/4.-Design-de-Níveis#41-estrutura-dos-níveis)<br>
+    4.2. [Mapas e Layouts](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/4.-Design-de-Níveis#42-mapas-e-layouts)<br>
 
-5. [Arte e Estilo Visual](#5-arte-e-estilo-visual)<br>
-    5.1. [Estilo Artístico](#51-estilo-artístico)  
-    5.2. [Personagens e Animações](#52-personagens-e-animações)  
-    5.3. [Cenários e Ambientes](#53-cenários-e-ambientes)  
-    5.4. [Interface do Usuário (UI)](#54-interface-do-usuário-ui)  
-    5.5. [Paleta de Cores](#55-paleta-de-cores)  
+5. [Arte e Estilo Visual](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/5.-Arte-e-Estilo-Visual)<br>
+    5.1. [Estilo Artístico](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/5.-Arte-e-Estilo-Visual#51-estilo-artístico)<br>
+    5.2. [Personagens e Animações](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/5.-Arte-e-Estilo-Visual#52-personagens-e-animações)<br>
+    5.3. [Cenários e Ambientes](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/5.-Arte-e-Estilo-Visual#53-cenários-e-ambientes)<br>
+    5.4. [Interface do Usuário (UI)](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/5.-Arte-e-Estilo-Visual#54-interface-do-usuário-ui)<br>
+    5.5. [Paleta de Cores](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/5.-Arte-e-Estilo-Visual#55-paleta-de-cores)<br>
 
-6. [Áudio](#6-áudio)<br>
-   <!-- 6.1. [Trilha Sonora](#61-trilha-sonora) --> 
-    6.2. [Efeitos Sonoros](#62-efeitos-sonoros)  
-   <!-- 6.3. [Dublagem](#63-dublagem)  
-    6.4. [Ambiente Sonoro](#64-ambiente-sonoro)  -->
-<!--
-7. [Progresso e Salvamento](#7-progresso-e-salvamento)<br>
-    7.1. [Sistema de Progressão](#71-sistema-de-progressão)  
-    7.2. [Sistema de Salvamento](#72-sistema-de-salvamento)  
-
-8. [Monetização](#8-monetização)<br>
-    8.1. [Modelo de Negócio](#81-modelo-de-negócio)  
-    8.2. [Itens Pagos](#82-itens-pagos)  
-
-9. [Testes e Qualidade](#9-testes-e-qualidade)<br>
-    9.1. [Testes de Jogo](#91-testes-de-jogo)  
-    9.2. [Feedback dos Jogadores](#92-feedback-dos-jogadores)  
-
-10. [Conclusão](#10-conclusão)<br>
-    10.1. [Sumário](#101-sumário)  
-    10.2. [Próximos Passos](#102-próximos-passos)  -->
+6. [Áudio](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/6.-Áudio)<br>
+    6.2. [Efeitos Sonoros](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/6.-Áudio#62-efeitos-sonoros)<br>
