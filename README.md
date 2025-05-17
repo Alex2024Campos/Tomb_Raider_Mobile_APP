@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <p align="center">
   <img src="https://i.ibb.co/56s7K8j/292330192-445386850928422-7259301303587158181-n-jpg.png" alt="Minimalist RPG GDD Banner">
 </p>
@@ -151,3 +152,21 @@ Adaptado do [original](https://github.com/allefrodrigo/gdd-template) para utiliz
 
 
 >>>>>>> 0d4d921275808df52bc524f0d1fedc7b09b1e525
+=======
+>[!Important]
+ > ` - Tomb Raider | Mobile APP`
+>- Turma: 3°Mtec Desenvolvimento de Jogos Digitais.
+>- Escola: Etec Prof. Basilides de Godoy.
+>- Sobre: Repositório para a documentação da prototipação e projeto de um aplicativo mobile proposto pela Prof. Aline F. Brito da Etec Prof. Basilides de Godoy.
+>- Datas: Protótipo (20/05/2025).
+
+>[!Important]
+ > ` - Dupla:`
+>- Alex Campos de Oliveira
+>- Kauan Merida
+
+
+## Wiki
+
+![image](https://github.com/user-attachments/assets/b7a33173-308e-4cf0-8f94-81eab028d18d)
+>>>>>>> ae9e259989dec6463a99facbd232ba1407c9f11e
