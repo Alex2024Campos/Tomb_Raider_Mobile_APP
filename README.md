@@ -11,7 +11,7 @@
 
 ## Tópicos da Wiki:
 
-1. [Pesquisa](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/1.-Pesquisa)<br>
+1. [Pesquisa](https://github.com/Alex2024Campos/Tomb_Raider_Mobile_APP/wiki/1.-Pesquisa)<br>
 
 
 2. [Protótipo](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/2.-Prot%C3%B3tipo)<br>
