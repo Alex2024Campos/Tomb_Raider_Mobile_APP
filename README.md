@@ -2,9 +2,9 @@
 
 ## Dupla:
 
- Alex Campos de Oliveira
-<br>
- Kauan Merida
+- Alex Campos de Oliveira
+
+- Kauan Merida
 
 ## Descrição:
 - Repositório criado com o intuito de armazenar o protótipo da aplicação e suas informações (funções, widgets, etc) baseado no jogo "Tomb Raider". Projeto proposto pela Prof. Aline F. Brito para o 3° MTEC em Desenvolvimento de Jogos Digitais.
