@@ -9,6 +9,11 @@
 #### Descrição:
 - Repositório criado com o intuito de armazenar o protótipo da aplicação e suas informações (funções, widgets, etc) baseado no jogo "Tomb Raider". Projeto proposto pela Prof. Aline F. Brito para o 3° MTEC em Desenvolvimento de Jogos Digitais.
 
+#### Atualizações do APP: 
+- Protótipo do app atualizado (cores, elementos e posicionamento dos elementos). 
+- Projeto do flutter iniciado, atualmente desenvolvendo a tela inicial.
+- Estado do projeto: `Em Desenvolvimento.`
+
 ## Tópicos da Wiki:
 
 1. [Pesquisa](https://github.com/Alex2024Campos/Tomb_Raider_Mobile_APP/wiki/1.-Pesquisa)<br>
