@@ -22,3 +22,5 @@
 2. [Protótipo](https://github.com/Alex2024Campos/Tomb_Raider_Mobile_APP/wiki/2.-Prot%C3%B3tipo)<br>
 
 3. [Criação da Aplicação](https://github.com/Alex2024Campos/Tomb_Raider_Mobile_APP/wiki/3.-Cria%C3%A7%C3%A3o-da-Aplica%C3%A7%C3%A3o)<br>
+
+4. [Codificação] https://github.com/Alex2024Campos/Tomb_Raider_Mobile_APP/wiki/4.-Codifica%C3%A7%C3%A3o <br>
