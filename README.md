@@ -12,7 +12,8 @@
 #### Atualizações do APP: 
 - Protótipo do app atualizado (cores, elementos e posicionamento dos elementos). 
 - Projeto do flutter iniciado, atualmente desenvolvendo a tela inicial.
-- Estado do projeto: `Em Desenvolvimento.`
+- Projeto do flutter desenvolvido, mas ainda sendo corrigido. Documentação do processo de desenvolvimento presente na Wiki, junto das imagens e alguns códigos. Os restantes dos códigos serão enviados logo após algumas correções e reorganizações.
+- Estado do projeto: `Quase Concluido.`
 
 ## Tópicos da Wiki:
 
