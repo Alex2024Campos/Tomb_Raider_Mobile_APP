@@ -13,7 +13,7 @@
 - Protótipo do app atualizado (cores, elementos e posicionamento dos elementos). 
 - Projeto do flutter iniciado, atualmente desenvolvendo a tela inicial.
 - Projeto do flutter desenvolvido, mas ainda sendo corrigido. Documentação do processo de desenvolvimento presente na Wiki, junto das imagens e alguns códigos. Os restantes dos códigos serão enviados logo após algumas correções e reorganizações.
-- Estado do projeto: `Quase Concluido.`
+- Estado do projeto: `Concluido.`
 
 ## Tópicos da Wiki:
 
