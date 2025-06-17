@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "tombraiderapp",
+            "cwd": "tombraiderapp",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "tombraiderapp (profile mode)",
+            "cwd": "tombraiderapp",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "tombraiderapp (release mode)",
+            "cwd": "tombraiderapp",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
