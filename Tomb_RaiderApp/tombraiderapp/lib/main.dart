@@ -49,9 +49,7 @@ class MainApp extends StatelessWidget {
                 }, //exit(0),
                 icon: Icon(Icons.exit_to_app, color: Colors.white),
               ),
-              SizedBox(
-                width: 1000,
-              ),
+              Spacer(),
               IconButton(
                 onPressed: () async {
                   AdicionarURL('https://www.crystaldynamics.com/');

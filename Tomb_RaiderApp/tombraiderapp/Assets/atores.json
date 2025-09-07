@@ -1,27 +1,27 @@
-{
-    "Ator":{
+[
+    {
         "nome": "Camilla Luddington",
         "personagem":"Lara Croft",
         "image":"Assets/atoresImagens/CamillaLuddigton.png"
     },
-    "Ator":{
+    {
         "nome": "Robin Atkin Downes",
         "personagem":"Conrad Roth",
         "image":"Assets/atoresImagens/RobinAtkinDownes.png"
     },
-    "Ator":{
+    {
         "nome": "Richard Dillane",
         "personagem":"Mathias",
         "image":"Assets/atoresImagens/RichardDillane.png"
     },
-    "Ator":{
+    {
         "nome": "Gillian Anderson",
         "personagem":"Sam Nishimura",
         "image":"Assets/atoresImagens/GillianAnderson.png"
     },
-    "Ator":{
+    {
         "nome": "Ralph Ineson",
         "personagem":"Jonah Maiava",
         "image":"Assets/atoresImagens/RalphIneson.png"
     }
-}
+]

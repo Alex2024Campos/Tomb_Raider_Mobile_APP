@@ -25,63 +25,56 @@ class Gallery extends StatelessWidget {
         color: Colors.black,
         child: Row(
           children: [
-            SizedBox(
-              width: 10,
-            ),
+            SizedBox(width: 10),
             IconButton(
               onPressed: () {
                 Navigator.pop(context);
               },
               icon: Icon(Icons.home, color: Color(0xffffffff)),
             ),
-            SizedBox(
-              width: 1000,
+            Spacer(),
+            IconButton(
+              onPressed: () async {
+                AdicionarURL('https://www.crystaldynamics.com/');
+              },
+              icon: Icon(Icons.apartment, color: Color(0xff14ddff)),
             ),
-        IconButton(
-                onPressed: () async {
-                    AdicionarURL('https://www.crystaldynamics.com/');
-                 },
-                icon: Icon(Icons.apartment, color: Color(0xff14ddff)),
-              ),
-              Text(
-                style: TextStyle(color: Colors.white),
-                "Crystal Dynamics",
-              ),
+            Text(style: TextStyle(color: Colors.white), "Crystal Dynamics"),
           ],
         ),
       ),
 
-
-
       body: Center(
         child: SizedBox(
-         width: 900,
-         height: 500,
-         
-        child: Container(
-          color: Color.fromRGBO(82, 15, 15, 1),
-          child:CarouselSlider( options: CarouselOptions(
-            viewportFraction: 0.6,
-            enlargeCenterPage: true,
-            enableInfiniteScroll: true,
-            autoPlay: true,
-          ),
+          width: 900,
+          height: 500,
 
-
-            items:galleryphotos.map((item) => Container(
-              margin: EdgeInsets.all(8.0),
-              child: SizedBox(
-                height: 600,
-                width: 600,
-                child: Image.network(item, fit: BoxFit.contain),
+          child: Container(
+            color: Color.fromRGBO(82, 15, 15, 1),
+            child: CarouselSlider(
+              options: CarouselOptions(
+                viewportFraction: 0.6,
+                enlargeCenterPage: true,
+                enableInfiniteScroll: true,
+                autoPlay: true,
               ),
 
-          
-            )).toList(),
-        )
+              items: galleryphotos
+                  .map(
+                    (item) => Container(
+                      margin: EdgeInsets.all(8.0),
+                      child: SizedBox(
+                        height: 600,
+                        width: 600,
+                        child: Image.network(item, fit: BoxFit.contain),
+                      ),
+                    ),
+                  )
+                  .toList(),
+            ),
+          ),
         ),
       ),
-    )
     );
   }
 }
