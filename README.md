@@ -1,10 +1,15 @@
 # Tomb Raider | Mobile APP
 
-#### Dupla:
+## Dupla (1° Parte do Projeto - Prototipação e Programação):
 
 - Alex Campos de Oliveira
-
 - Kauan Merida
+
+## Dupla (2° Parte do Projeto - Aplicação do JSON):
+
+- Alex Campos de Oliveira
+- Guilherme Henrique
+
 
 #### Descrição:
 - Repositório criado com o intuito de armazenar o protótipo da aplicação e suas informações (funções, widgets, etc) baseado no jogo "Tomb Raider". Projeto proposto pela Prof. Aline F. Brito para o 3° MTEC em Desenvolvimento de Jogos Digitais.
@@ -18,7 +23,6 @@
 ## Tópicos da Wiki:
 
 1. [Pesquisa](https://github.com/Alex2024Campos/Tomb_Raider_Mobile_APP/wiki/1.-Pesquisa)<br>
-
 
 2. [Protótipo](https://github.com/Alex2024Campos/Tomb_Raider_Mobile_APP/wiki/2.-Prot%C3%B3tipo)<br>
 
